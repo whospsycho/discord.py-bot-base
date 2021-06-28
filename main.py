@@ -1,5 +1,7 @@
 import discord
 import os
+import json
+from discord.ext import commands
 
 cwd = os.path.dirname(os.path.realpath(__file__))
 
